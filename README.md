@@ -1,4 +1,6 @@
-# org_fair
+# CICT Org Fair
+
+https://kurtdaviddayao-jpg.github.io/org-fair/
 
 A new Flutter project.
 
